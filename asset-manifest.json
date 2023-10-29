@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.e5780cef.chunk.css",
-    "main.js": "/Portfolio/static/js/main.5a8ae44d.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.5a8ae44d.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.4b27bb71.chunk.css",
+    "main.js": "/Portfolio/static/js/main.1c33a6cf.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.1c33a6cf.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.48bde8a7.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.48bde8a7.js.map",
     "static/css/2.2a402c22.chunk.css": "/Portfolio/static/css/2.2a402c22.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.0976dabb.chunk.js.map": "/Portfolio/static/js/3.0976dabb.chunk.js.map",
     "index.html": "/Portfolio/index.html",
     "static/css/2.2a402c22.chunk.css.map": "/Portfolio/static/css/2.2a402c22.chunk.css.map",
-    "static/css/main.e5780cef.chunk.css.map": "/Portfolio/static/css/main.e5780cef.chunk.css.map",
+    "static/css/main.4b27bb71.chunk.css.map": "/Portfolio/static/css/main.4b27bb71.chunk.css.map",
     "static/js/2.852c2d8f.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.852c2d8f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Portfolio/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/adobe-xd.fa7a22d2.svg": "/Portfolio/static/media/adobe-xd.fa7a22d2.svg",
@@ -126,7 +126,7 @@
     "static/media/react.c3a0b34a.svg": "/Portfolio/static/media/react.c3a0b34a.svg",
     "static/media/redTheme-boy.74f6dfaa.svg": "/Portfolio/static/media/redTheme-boy.74f6dfaa.svg",
     "static/media/redTheme-girl.e2b9dd83.svg": "/Portfolio/static/media/redTheme-girl.e2b9dd83.svg",
-    "static/media/resume.9c5ea5a3.pdf": "/Portfolio/static/media/resume.9c5ea5a3.pdf",
+    "static/media/resume.8852a284.pdf": "/Portfolio/static/media/resume.8852a284.pdf",
     "static/media/ruby.775cc228.svg": "/Portfolio/static/media/ruby.775cc228.svg",
     "static/media/selenium.f0d42a91.svg": "/Portfolio/static/media/selenium.f0d42a91.svg",
     "static/media/seven.d5cabb8e.svg": "/Portfolio/static/media/seven.d5cabb8e.svg",
@@ -155,7 +155,7 @@
     "static/js/runtime-main.48bde8a7.js",
     "static/css/2.2a402c22.chunk.css",
     "static/js/2.852c2d8f.chunk.js",
-    "static/css/main.e5780cef.chunk.css",
-    "static/js/main.5a8ae44d.chunk.js"
+    "static/css/main.4b27bb71.chunk.css",
+    "static/js/main.1c33a6cf.chunk.js"
   ]
 }
