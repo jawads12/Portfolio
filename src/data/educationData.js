@@ -15,7 +15,7 @@ export const educationData = [
     },
     {
         id: 3,
-        institution: 'Nasirabad Govt. High School',
+        institution: 'Nasirabad Govt. High School, Chittagong',
         course: 'SSC',
         startYear: '2012',
         endYear: '2018'

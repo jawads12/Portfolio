@@ -161,7 +161,10 @@ function Landing() {
                     >
                         <h6>{headerData.title}</h6>
                         <h1>{headerData.name}</h1>
-                        <p>{headerData.desciption}</p>
+                        <p style={{ whiteSpace: 'pre' }}>{headerData.desciption1+'                                                                                                                                                                              '}</p>
+                        <p>{headerData.desciption2}</p>
+                        <p>{headerData.desciption3}</p>
+
 
                         <div className='lcr-buttonContainer'>
                             {headerData.resumePdf && (
